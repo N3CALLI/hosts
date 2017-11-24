@@ -54,61 +54,6 @@
 97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
 999fitness.com
 9cf9.v.fwmrm.net
-:: admob.biz
-:: admob.co.kr
-:: admob.co.nz
-:: admob.co.uk
-:: admob.com
-:: admob.de
-:: admob.dk
-:: admob.es
-:: admob.fi
-:: admob.fr
-:: admob.gr
-:: admob.it
-:: admob.jp
-:: admob.kr
-:: admob.mobi
-:: admob.no
-:: admob.pt
-:: admob.sg
-:: admob.tw
-:: admob.vn
-:: ads.heyzap.com
-:: ads.yimg.com
-:: ads.youtube.com
-:: apps.facebook.com
-:: assets.applovin.com
-:: connect.facebook.net
-:: facebook.com
-:: fbcdn.com
-:: fbcdn.net
-:: googleads.g.doubleclick.net
-:: login.facebook.com
-:: m.admob.com
-:: m.facebook.com
-:: pagead2.googlesyndication.com
-:: static.ak.connect.facebook.com
-:: static.ak.fbcdn.net
-:: www.connect.facebook.net
-:: www.facebook.com
-:: www.fbcdn.com
-:: www.fbcdn.net
-:: www.login.facebook.com
-::1 apps.facebook.com
-::1 connect.facebook.net
-::1 facebook.com
-::1 fbcdn.com
-::1 fbcdn.net
-::1 login.facebook.com
-::1 static.ak.connect.facebook.com
-::1 static.ak.fbcdn.net
-::1 www.connect.facebook.net
-::1 www.facebook.com
-::1 www.fbcdn.com
-::1 www.fbcdn.net
-::1 www.login.facebook.com
-::1 www.m.facebook.com
 TRIANGLESERVICESLTD.COM
 a.admob.com
 a.adtech.de
