@@ -1084,6 +1084,7 @@ googleads.g.doubleclick.net #Doubleclick tracking
 googleadservices.com
 googletagservices.com
 gosciniec-paproc.pl
+graph.facebook.com
 gravityexp.com
 gredinatib.info
 gredinatib.org
@@ -1692,6 +1693,7 @@ pride-u-bike.com
 print.theyeshivaworld.info
 private.hotelcesenaticobooking.info
 produla.czatgg.pl
+profile-a.xx.fbcdn.net
 profile.ak.fbcdn.net
 profitwizard.ru
 progettocrea.org
@@ -1829,6 +1831,8 @@ scaner-tgame.tk
 scanscout.com
 scanty.colormark.cl
 scdsfdfgdr12.tk
+scontent-b.xx.fbcdn.net
+scontent.xx.fbcdn.net
 scream.garudamp3.com
 scripts.kiosked.com
 sdg-translations.com
