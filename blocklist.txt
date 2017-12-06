@@ -363,6 +363,7 @@ adru.net
 ads-a-darwin.hulu.com
 ads-by.yieldselect.com
 ads-chunks.prod.ihrhls.com
+ads-resources.waze.com
 ads-v-darwin.hulu.com
 ads.ad2iction.com
 ads.adadapted.com
@@ -441,6 +442,7 @@ ads8-adnow.com
 ads9-adnow.com
 adsafeprotected.com
 adsame.com
+adsassets.waze.com
 adscale.de
 adsclick.ru
 adsdk.vrvm.com
@@ -531,6 +533,7 @@ advertstar.net
 advertur.ru
 advg.jp
 adview.pl
+advil.waze.com
 advmob.cn
 advolution.de
 advombat.ru
@@ -1358,6 +1361,7 @@ directadvert.ru
 directrev.com
 directxex.com
 dispatch.admixer.co.kr
+dispatch.look.io
 dispatcher.mng-ads.com
 dispatcher.upmc.uc.cn
 disqusads.com
@@ -3122,6 +3126,7 @@ reporo.net
 report-ads-to.pubnation.com/dist/pnr.js?t=$domain=m.neogaf.com
 report.appmetrica.webvisor.com
 report.appmetrica.yandex.net
+reports.crashlytics.com
 req.appads.com
 req.startappservice.com
 req1.appads.com
@@ -4404,6 +4409,3 @@ zybang.com##.cmn-zuoyebang-slogan
 zybang.com##.qb-wgt_float-banner
 zyrdu.cruisingsmallship.com
 zzhengre.com
-adsassets.waze.com
-advil.waze.com
-ads-resources.waze.com
