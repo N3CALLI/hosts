@@ -4404,3 +4404,6 @@ zybang.com##.cmn-zuoyebang-slogan
 zybang.com##.qb-wgt_float-banner
 zyrdu.cruisingsmallship.com
 zzhengre.com
+adsassets.waze.com
+advil.waze.com
+ads-resources.waze.com
