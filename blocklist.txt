@@ -4409,3 +4409,7 @@ zybang.com##.cmn-zuoyebang-slogan
 zybang.com##.qb-wgt_float-banner
 zyrdu.cruisingsmallship.com
 zzhengre.com
+c.disquscdn.com
+eholnk.com
+px.gfycat.com
+telemetry-in.battle.net
