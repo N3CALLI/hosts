@@ -4413,3 +4413,13 @@ c.disquscdn.com
 eholnk.com
 px.gfycat.com
 telemetry-in.battle.net
+adservice.google.com
+analytics.plaid.com
+appengage-video.fyber.com
+aws.interstitial-broker.fyber.com
+idiagnostics.apple.com
+massrel-all.massrel.io
+massrel-library-assets.a.ssl.fastly.net
+platform.massrelevance.com
+wpad.nyc.rr.com
+www.autohdforyoutube.com
