@@ -115,6 +115,7 @@ accuweather.com###mid-ad
 achren.org
 ackak.com
 acool.csheaven.com
+action.adzcore.com
 actionads.ru
 actionpay.ru
 actionteaser.ru
@@ -373,6 +374,7 @@ ads.admoda.com
 ads.adtekmedia.com
 ads.aerserv.com
 ads.aitype.net
+ads.api.vungle.com
 ads.avocarrot.com
 ads.bhol.co.il
 ads.celtra.com
@@ -640,7 +642,9 @@ analytics-server.gimbal.com
 analytics-tracker.thescore.com
 analytics.ad.daum.net
 analytics.admob.com
+analytics.bijietech.com
 analytics.ff.avast.com
+analytics.foresee.com
 analytics.liftoff.io
 analytics.localytics.com
 analytics.mobile.yandex.net
@@ -836,6 +840,7 @@ azeriseks.ru##body > div.iblock > strong
 azoos.csheaven.com
 b.cpiera.com
 b.marfeel.com/statics/marfeel/gardac.js$domain=applesencia.com
+b.measuread.com
 b.nevadaprivateoffice.com
 b.scorecardresearch.com
 b.scorecardresearch.com/beacon.js$domain=m.timesofindia.com
@@ -1111,6 +1116,7 @@ carbonads.net
 carfax.sc.omtrdc.net
 casalemedia.com
 cashprom.ru
+cashstaging.me
 castplatform.com
 catjogger.win
 cauly.co.kr
@@ -1194,6 +1200,8 @@ clickmngr.com
 clickonometrics.pl
 clickopon.com
 clickrtb-useast.kobenetwork.com
+clickstream.elasticbeanstalk.com
+clickstream.grubhub.com
 clickterra.net
 clientmetrics-augmentum.kik.com
 clientmetrics.kik.com
@@ -1231,6 +1239,7 @@ coin-hive.com
 cold-cold-freezing.com
 collector-axa.cloud.ca.com
 collector.brandify.com
+com.tenjin.ios.api
 comfortablecheese.com
 commandwalk.com
 common.duapps.com
@@ -1241,8 +1250,10 @@ concede.fmtlib.net
 concernrain.com
 conds.ru
 config.appjolt.com
+config.inmobi.com
 config.sdk.scopely.io/*/android/ads_config.json
 config.tremorhub.com
+config.unityads.unity3d.com
 config2.mparticle.com
 connect.decknetwork.net
 connect.facebook.com
@@ -1534,6 +1545,7 @@ eporner.com^$subdocument,~third-party
 eqx.smartadserver.com
 ero-advertising.com
 eroov.iptvdeals.com
+error-collector.ted.com
 erupt.fernetmoretti.com.ar
 es-la.facebook.com
 esoad.frost-electric-supply.com
@@ -1884,6 +1896,7 @@ hdzog.com/assets/$domain=m.hdzog.com
 hdzog.com/get_file/$domain=m.hdzog.com
 hdzog.com/key=$domain=m.hdzog.com
 headless.ebkfwd.com
+health.foresee.com
 health.mail.ru##div[class$="trg-b-banner-block"]
 healthboards.com##.sticky_ad
 healthline.com##div.mlb
@@ -2506,6 +2519,7 @@ mdn3origin.phluantmobile.net
 mdotm.com
 measuread.com
 med-api.admost.com
+med.heyzap.com
 media-b.jp
 media.admob.com
 media.disquscdn.com
@@ -2549,6 +2563,7 @@ metok.sys.miui.com
 metrics-cbslocal-com.cdn.ampproject.org
 metrics.adflake.com
 metrics.bestbuy.com
+metrics.cvshealth.com
 metrics.macys.net
 metrics.sdkbox.com
 metrics.timewarnercable.com
@@ -2622,6 +2637,7 @@ mobile.donanimhaber.com##.yorumlar > article~div.ondabir
 mobile.donanimhaber.com##.yorumlar > div.ondabir > div.gorsel
 mobile.donanimhaber.com##div[style$="width:320px; height:100px;"]
 mobile.donanimhaber.com##div[style="margin:10px auto; text-align:center; width:320px; height:100px;"]
+mobile.eum-appdynamics.com
 mobile.juicyads.com
 mobile.mng-ads.com
 mobile.nytimes.com##[class^="ResponsiveAd-bottomAd--"]
@@ -2887,6 +2903,8 @@ openclick.com
 openstat.net
 openvideoads.com
 openvideoads.org
+openx.alarab.com
+openx.alarab.net
 openx.com
 openx.jp
 openx.net
@@ -3187,6 +3205,7 @@ reporo.net
 report-ads-to.pubnation.com/dist/pnr.js?t=$domain=m.neogaf.com
 report.appmetrica.webvisor.com
 report.appmetrica.yandex.net
+reporting.tapstream.com
 reports.crashlytics.com
 req.appads.com
 req.startappservice.com
@@ -3358,6 +3377,7 @@ server1.extra-web.cz
 service.face2trade.com
 serving-sys.com
 sessionm.com
+setting.adzcore.com
 setting.rayjump.com
 settings.crashlytics.com
 sexyoilwrestling.com
@@ -3519,6 +3539,7 @@ smarttds.ru
 smedia2.intoday.in/aajtak_pwapp$script
 smetrics.capitalone.com
 smetrics.discover.com
+smetrics.fedex.com
 smilered.com
 smilll.depozit.hr
 smrcek.com
@@ -4162,6 +4183,7 @@ www.0uk.net
 www.2607.cn
 www.3difx.com
 www.3peaks.co.jp
+www.5rocks.io
 www.a4yy.top/js/gg*.js
 www.a4yy.top/js/w.js
 www.acquisizionevideo.com
@@ -4284,9 +4306,11 @@ www.jcmarcadolib.com
 www.joomlalivechat.com
 www.k5market.com
 www.kcta.or.kr
+www.ketchapp.org
 www.kjbbc.net
 www.lajourneeducommercedeproximite.fr
 www.lccl.org.uk
+www.leanplum.com
 www.les-ptits-dodos.com
 www.litra.com.mk
 www.login.facebook.com
@@ -4396,6 +4420,7 @@ www.toochattoo.com
 www.torgi.kz
 www.tpt.edu.in
 www.tradersbrokers.com
+www.trkn.us
 www.tvnews.or.kr
 www.two-of-us.at
 www.unicaitaly.it
@@ -4408,6 +4433,7 @@ www.vinyljazzrecords.com
 www.vipcpms.com
 www.vivaimontina.com
 www.volleyball-doppeldorf.de
+www.vungle.com
 www.vvvic.com
 www.whitesports.co.kr
 www.widestep.com
