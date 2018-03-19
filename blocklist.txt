@@ -2279,6 +2279,7 @@ logger.ntracecloud.com
 login.facebook.com
 login.wi-fi.ru$script,third-party
 logly.co.jp
+logs.supersonic.com
 logupdate.avlyun.sec.miui.com
 logx.optimizely.com
 loopme.me
@@ -3347,6 +3348,7 @@ sdt1.corp.inmobi.com
 sebder.roboinside.me
 seclub.org##.ad_block
 secure.insightexpressai.com
+secure.ironbeast.io
 secure.p01.eloqua.com
 securepubads.g.doubleclick.net
 securepubads.g.doubleclick.net/gampad/ads$domain=wtf.nl
@@ -3812,6 +3814,7 @@ tracking-stats-tr.usa.cc
 tracking.acekoala.com
 tracking.applift.com
 tracking.beginads.com
+tracking.campaign-tracking-service.placelocal.com
 tracking.directservices.it
 tracking.klickthru.com
 tracking.lenzmx.com
@@ -3953,6 +3956,7 @@ ukugl.tourstogo.us
 ulink.adjust.com
 ulm-news.de###SWU-schwabenstrom
 ulm-news.de/image/banners
+ulogs.umengcloud.com
 ultraadserver.com
 umbel.com
 umeng.com/app_logs
@@ -4545,6 +4549,7 @@ zkic.com
 zmovs.com##div[class^="player-banner"]
 zoglafi.info
 zous.szm.sk
+zrk.imgur.com
 zt.tim-taxi.com
 zucks.co.jp
 zucks.net
