@@ -4588,3 +4588,9 @@ pm.adsafeprotected.com
 run.adrizer.com
 venetia.iad.appboy.com
 www.adtilt.com
+ccleaner.tools.avcdn.net
+col.eum-appdynamics.com
+cs.yieldoptimizer.com
+d.xp1.ru4.com
+emupdate.avcdn.net
+tag.yieldoptimizer.com
