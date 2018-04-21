@@ -230,6 +230,7 @@ addnow.ru
 addown.pipaw.com/phone/
 addthis.com
 addweb.ru
+ade.googlesyndication.com
 adelva.com
 adeventtracker.spotify.com
 adex.bmediaasia.com
@@ -418,6 +419,7 @@ ads.smartdevicemedia.com
 ads.superawesome.tv
 ads.taptapnetworks.com
 ads.tremorhub.com
+ads.viber.com
 ads.vserv.mobi
 ads.wikipartes.com
 ads.xlxtra.com
@@ -709,6 +711,7 @@ api.gameofwhales.com
 api.gimbal.com
 api.grandonmedia.com
 api.hh.ru/banners_targeting
+api.impressions.vupulse.com
 api.kiip.me
 api.kostprice.com/api/amp-widget$domain=m.gadgets.ndtv.com
 api.leadbolt.net
@@ -733,6 +736,8 @@ api.tinyhoneybee.com/api/getADResource
 api.uca.cloud.unity3d.com
 api.usebutton.com
 api.vigo.ru
+api.vungle.akadns.net
+api.vungle.com
 api.wirelessdeveloper.com
 api.xtify.com
 api.yp.com
@@ -914,6 +919,7 @@ betaffs.com
 betrad.com
 betsonsport.ru
 betterhomeandgardenideas.com
+bevo-us-east-1.adsnative.com
 bevo-us-east-1.adsnative.come
 bezproudoff.cz
 bgrndi.com
@@ -1129,6 +1135,7 @@ cb-cdn.com
 cb.baidu.com
 cb.ksmobile.com
 cbjs.baidu.com
+ccleaner.tools.avcdn.net
 cdn-api.admost.com
 cdn-image.com
 cdn.ads.fotoable.net
@@ -1171,6 +1178,7 @@ ceppartner.com
 ceskarepublika.net
 cf-ads.pinger.com
 cf.cdn.inmobi.com
+cf.iadsdk.apple.com
 chango.com
 chartboost.com
 chaveiro.bio.br
@@ -1240,6 +1248,7 @@ coconuts.boy.jp
 cofeb13east.com
 coffeol.com
 coin-hive.com
+col.eum-appdynamics.com
 cold-cold-freezing.com
 collector-axa.cloud.ca.com
 collector.brandify.com
@@ -1281,8 +1290,10 @@ corroshield.estb.com.sg
 cosmetice-farduri.ro
 cosmos.felago.es
 cosmos.furnipict.com
+count-server.sharethis.com
 counter.hdvb.info
 counter.kingsoft.com
+countserver.k.sharethis.net
 cp.pushwoosh.com
 cpactions.com
 cpmrocket.com
@@ -1310,6 +1321,7 @@ crosspromotion-us.avosapps.us
 crossrider.com
 crownclam.com
 crwdcntrl.net
+cs.yieldoptimizer.com
 csgostash.com##.adv-top-header-mobile
 csi.gstatic.com
 csmail.iggcn.com
@@ -1328,6 +1340,7 @@ cyberwing.co.jp
 cznshuya.ivnet.ru
 d.applovin.com
 d.applvn.com
+d.xp1.ru4.com
 d1.kuai8.com
 d1054130-28095.cp.blacknight.com
 d1171912.cp.blacknight.com
@@ -1507,6 +1520,7 @@ eddenya.com
 edf.fr.kfskz.com
 edge.quantserve.com
 edge.reporo.net
+edge.simplereach.com
 edition.cnn.com##.zn-body__read-more-outbrain
 edition.cnn.com##.zn-story-bottom-second
 edition.cnn.com##div[data-bundle="adzones"]
@@ -1540,6 +1554,7 @@ emediate.dk
 emediate.eu
 emediate.se
 emits.iptvdeals.com
+emupdate.avcdn.net
 enatimedia.com
 engine.a.redditmedia.com
 engine.mobileapptracking.com
@@ -1837,6 +1852,7 @@ googleads.g.doubleclick.net
 googleads.g.doubleclick.net #Doubleclick tracking
 googleads.g.doubleclick.net/mads/gma?*&_package_name=com.nextradiotv.bfmbusiness
 googleads.g.doubleclick.net/mads/gma?request_id=*&_package_name=com.nextradiotv.bfmbusiness
+googleads4.g.doubleclick.net
 googleadservices.com
 googleapis.com/customsearch/$domain=m.hdzog.com
 googletagmanager.com/gtm.js$domain=saturn.de
@@ -2954,6 +2970,7 @@ pacan.gofreedom.info
 pacman.gkgar.com
 padsdel.com
 pagead.googlesyndication.com
+pagead.l.doubleclick.net
 pagead1.googlesyndication.com
 pagead2.googlesyndication.com
 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dthforum.com
@@ -3039,6 +3056,7 @@ plista.com
 plugin.2easydroid.com
 plugin.mediavoice.com^$third-party
 plugin.mobopay.baidu.com
+pm.adsafeprotected.com
 podzemi.myotis.info
 pogruz.wanyizhao.net
 pokachi.net
@@ -3276,6 +3294,7 @@ rufex.ajfingenieros.cl
 ruiyangcn.com
 rulerabbit.com
 rumog.frost-electric-supply.com
+run.adrizer.com
 runnergamesch.com/*/BasCount/adAll
 rupor.info
 russian7.ru###bottomLine-banner
@@ -3704,6 +3723,7 @@ t3q7af0z.com
 tabex.sopharma.bg
 taboola.com
 taboolasyndication.com
+tag.yieldoptimizer.com
 tags.api.umbel.com
 tags.bkrtx.com
 tags.crwdcntrl.net/*.js?ns=^$domain=m.timesofindia.com
@@ -4035,6 +4055,7 @@ veevu.tourstogo.us
 veksi.barginginfrance.net
 velti.com
 vendimob.pl
+venetia.iad.appboy.com
 vernoblisk.com
 veronicamagazine.nl/srv/*/banner
 vesti.ru###rb_fs_wrapper__ID
@@ -4572,25 +4593,3 @@ zybang.com##.cmn-zuoyebang-slogan
 zybang.com##.qb-wgt_float-banner
 zyrdu.cruisingsmallship.com
 zzhengre.com
-ade.googlesyndication.com
-ads.viber.com
-api.impressions.vupulse.com
-api.vungle.akadns.net
-api.vungle.com
-bevo-us-east-1.adsnative.com
-cf.iadsdk.apple.com
-count-server.sharethis.com
-countserver.k.sharethis.net
-edge.simplereach.com
-googleads4.g.doubleclick.net
-pagead.l.doubleclick.net
-pm.adsafeprotected.com
-run.adrizer.com
-venetia.iad.appboy.com
-www.adtilt.com
-ccleaner.tools.avcdn.net
-col.eum-appdynamics.com
-cs.yieldoptimizer.com
-d.xp1.ru4.com
-emupdate.avcdn.net
-tag.yieldoptimizer.com
