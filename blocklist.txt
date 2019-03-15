@@ -171,6 +171,7 @@ ad.mist.jp
 ad.mo.doubleclick.net
 ad.myinstashot.com
 ad.ohmyad.co
+ad.pandora.tv
 ad.parrot.mable-inc.com
 ad.period-calendar.com
 ad.pr.ameba.jp
@@ -365,6 +366,7 @@ adru.net
 ads-a-darwin.hulu.com
 ads-by.yieldselect.com
 ads-chunks.prod.ihrhls.com
+ads-resources-legacy.waze.com
 ads-resources.waze.com
 ads-v-darwin.hulu.com
 ads.ad2iction.com
@@ -409,14 +411,18 @@ ads.nexage.com
 ads.nicovideo.jp
 ads.ontarget.mobi
 ads.ookla.com
+ads.pandora.tv.net
 ads.pdbarea.com
 ads.pinger.com
+ads.pokerist.com
 ads.reddit.com
 ads.reward.rakuten.jp
 ads.rubiconproject.com
 ads.saymedia.com
 ads.smartdevicemedia.com
 ads.superawesome.tv
+ads.tapdaq.com
+ads.tapdaq.com.cdn.cloudflare.net
 ads.taptapnetworks.com
 ads.tremorhub.com
 ads.viber.com
@@ -440,6 +446,7 @@ ads2.mediaarmor.com
 ads2.mojiva.com
 ads3-adnow.com
 ads3.mojiva.com
+ads30.adcolony.com
 ads4-adnow.com
 ads4.mojiva.com
 ads5-adnow.com
@@ -646,10 +653,12 @@ analytics-tracker.thescore.com
 analytics.ad.daum.net
 analytics.admob.com
 analytics.bijietech.com
+analytics.businessinsider.com
 analytics.ff.avast.com
 analytics.foresee.com
 analytics.liftoff.io
 analytics.localytics.com
+analytics.marxent.io
 analytics.mobile.yandex.net
 analytics.mopub.com
 analytics.plaid.com
@@ -658,6 +667,7 @@ analytics.rayjump.com
 analyzer.omniata.com
 andmlb.kshwtj.com
 andomedia.com
+andoramedia-mkt-prod1-t.campaign.adobe.com
 android-api-de.gumtree.com/api/users/*/ads.json
 android-sdk31.transpera.com
 android.bcfads.com
@@ -691,13 +701,16 @@ api.appodeal.com/stats
 api.appsee.com
 api.appsflyer.com
 api.apptentive.com
+api.areametrics.com
 api.axiatraders.com
+api.beaconsinspace.com
 api.bitmango.com/api/ad_manager
 api.branch.io
 api.branch.io/v1/open
 api.bufferapp.com/*/profiles.json
 api.bufferapp.com/*/service/
 api.bufferapp.com/*/user
+api.catch.gift
 api.cloudmobi.net
 api.connect.facebook.com
 api.crittercism.com
@@ -705,16 +718,20 @@ api.crunchyroll.com/log_ad_event.0.json
 api.elysium.opera.com/api/elysium/log_session_events
 api.elysium.opera.com/api/elysium/log_session_info
 api.facebook.com
+api.factual.com
 api.fusepowered.com
 api.gameanalytics.com
 api.gameofwhales.com
 api.gimbal.com
 api.grandonmedia.com
+api.growthpush.com
 api.hh.ru/banners_targeting
+api.huq.io
 api.impressions.vupulse.com
 api.kiip.me
 api.kostprice.com/api/amp-widget$domain=m.gadgets.ndtv.com
 api.leadbolt.net
+api.leanplum.com
 api.live.daum.net/*/ad/
 api.miui.security.xiaomi.com
 api.mixpanel.com/engage
@@ -726,8 +743,11 @@ api.ok.ru/fb.do?application_key=*_advertisement.user_id
 api.oneaudience.com
 api.pingstart.com
 api.pubnative.net
+api.redshell.io
+api.safegraph.com
 api.sec.miui.com
 api.segment.io/v1/
+api.swirl.com
 api.taboola.com/*/recommendations.get
 api.taplytics.com
 api.tapstream.com
@@ -738,6 +758,7 @@ api.usebutton.com
 api.vigo.ru
 api.vungle.akadns.net
 api.vungle.com
+api.vupulse.com
 api.wirelessdeveloper.com
 api.xtify.com
 api.yp.com
@@ -749,6 +770,7 @@ app-c.net
 app-measurement.com
 app-trackings.com
 app.adjust.com
+app.bugfender.com
 app.facebook.com
 app.pho8.com
 app.roximity.com
@@ -761,6 +783,7 @@ appex-rf.msn.com/*.js?adtype=
 appflood.com
 appintop.com
 applab-sdk.amazon.com
+apple.j9eup6o5os.top
 applifier.com
 applift.com
 applift.comempty
@@ -784,6 +807,7 @@ appserver-cp.com
 appshelf.ttpsdk.info
 appsupport.qq.com/cgi-bin/appstage/mstats_batch_report
 apptentive.com
+apptimize.com
 apptornado.com
 appwall.tv2phone.cn
 apxadtracking.net
@@ -941,6 +965,7 @@ bilbaopisos.es
 billytesting.com
 bio-air-technologies.com
 bitmango.com/log
+bitpr.xyzbookpest.com
 bizographics.com
 bizzibeans.net
 bj04.com
@@ -971,6 +996,7 @@ boogu.barginginfrance.net
 bookofkisl.com
 boostads.net
 boots.fotopyra.pl
+bootstrap.upsight-api.com
 borat.elticket.com.ar
 boredcrown.com
 bos-tapreq01.jumptap.com
@@ -1025,6 +1051,7 @@ buzzcity.net
 buzzclicks.com
 buzzonclick.com
 buzzurl.jp
+by.uservoice.com
 by98.com
 bypass.jp
 byzgoso.ru
@@ -1135,10 +1162,13 @@ cb-cdn.com
 cb.baidu.com
 cb.ksmobile.com
 cbjs.baidu.com
+cbsdfp5832910442.s.moatpixel.com
 ccleaner.tools.avcdn.net
 cdn-api.admost.com
+cdn-api.swirl.com
 cdn-image.com
 cdn.ads.fotoable.net
+cdn.adsafeprotected.com
 cdn.ajillionmax.com
 cdn.applift.com
 cdn.beginads.com
@@ -1155,8 +1185,10 @@ cdn.mdotm.com
 cdn.media.amp.avai.com
 cdn.millennialmedia.com
 cdn.nearbyad.com
+cdn.optimizely.com
 cdn.outfit7.com/promo-nc
 cdn.static.zdtag.com
+cdn.taboola.com
 cdn.trafficforce.com
 cdn.unityads.unity3d.com
 cdn.us.goldspotmedia.com
@@ -1245,6 +1277,8 @@ coaha.frenchgerlemanelectric.com
 coalimpex.com
 coandroid.ru/uploads/mobcoin.png
 coconuts.boy.jp
+codepush.azurewebsites.net
+codepushupdates.azureedge.net
 cofeb13east.com
 coffeol.com
 coin-hive.com
@@ -1271,6 +1305,7 @@ config2.mparticle.com
 connect.decknetwork.net
 connect.facebook.com
 connect.facebook.net
+connect.tapjoy.com
 consciouscabbage.com
 consearch.jp
 consumer.exacttargetapis.com
@@ -1280,6 +1315,7 @@ content.quantcount.com
 contentabc.com
 contentstream.pl
 contextweb.com
+control.kochava.com
 conversantmedia.com
 convertpad.com/ad/
 cope.it
@@ -1316,6 +1352,7 @@ crittercism.com/api/
 crops.dunight.eu
 crossboardmobile.com
 crosspromo*.qplaze.com/PushCampaignXMLOut.php
+crosspromo.voodoo.io
 crosspromo.zeptolab.com
 crosspromotion-us.avosapps.us
 crossrider.com
@@ -1340,6 +1377,7 @@ cyberwing.co.jp
 cznshuya.ivnet.ru
 d.applovin.com
 d.applvn.com
+d.reddit.com
 d.xp1.ru4.com
 d1.kuai8.com
 d1054130-28095.cp.blacknight.com
@@ -1572,6 +1610,7 @@ esoad.frost-electric-supply.com
 espdesign.com.au
 estoa.frost-electric-supply.com
 et-code.ru
+et.intake.factual.com
 et.w.inmobi.com
 etargetnet.com
 etcodes.com
@@ -1592,6 +1631,8 @@ evans.babajilab.in
 events.appsflyer.com
 events.foreseeresults.com
 events.lbesecapi.com
+events3.adcolony.com
+eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 everestads.net
 eviltracker.net
 ex.technor.com
@@ -1737,6 +1778,7 @@ fmpub.net
 focas.jp
 fondazioneciampi.org
 formessengers.com
+fortpush.com
 forum.exploit.in##body > div > table[align="center"] a[rel$="nofollow"] > img
 forum.saransk.ru##div[class^="banner_zone"]
 forums.androidcentral.com##.adunit
@@ -1796,9 +1838,12 @@ genieesspv.jp
 geo.moatads.com
 geoip.fotoable.net
 geoip.ifunny.co
+geoip.nekudo.com
 geoplugin.net
 gesundheitsfrage.net##.AdSticky
 getdatanetukscan.info
+getpocket-cdn.prod.mozaws.net
+getpocket.cdn.mozilla.net
 giants.yourzip.co
 giddycoat.com
 giga.de#$#body.mobile { padding-top: 0px!important; }
@@ -1968,6 +2013,7 @@ hst-19-33.splius.lt
 html5.adsrvr.org
 html5adkit.plusmo.s3.amazonaws.com
 httpool.com
+hub.databurst.io
 hujii.qplanner.cf
 huntmad.com
 hy-brasil.mhwang.com
@@ -1992,6 +2038,7 @@ i2i.jp
 iacpromotion.s3.amazonaws.com
 iad-usadmm.dotomi.com
 iad.appboy.com
+iad09-convex.dotomi.com
 iadsdk.apple.com
 iam-agof-app.irquest.com
 iamagameaddict.com
@@ -2016,6 +2063,7 @@ igoby.frost-electric-supply.com
 igp06.gameloft.com
 igpiphone.gameloft.com
 igroo.barginginfrance.net
+ilgde.adocean.plin.treasuredata.com
 illustriousoatmeal.com
 im.20xs.cc/?ss=
 im.c.yimg.jp
@@ -2063,9 +2111,11 @@ imp.apprevolve.com
 impact-ad.jp
 impressoras-cartoes.com.pt
 imwx.com/mobile/adconfig/
+in.cuebiq.com
 inclk.com$popup
 inclusivediversity.co.uk
 incoctel.cl
+incoming-data-sense360.s3.amazonaws.com
 incrediblesugar.com
 independent.co.uk##.taboola
 indianexpress.com##amp-iframe
@@ -2076,6 +2126,7 @@ infoweb-coolinfo.tk
 ingameads.gameloft.com
 ingamesads.gameloft.com
 ingress.com/intel?$document
+init.supersonicads.com
 inlinea.co.uk
 inmobi-jp.com
 inmobi.com
@@ -2097,6 +2148,7 @@ instruminahui.edu.ec
 integral-marketing.com
 intellitxt.com
 interactivearea.ru
+interadv.netipm-provider.ff.avast.com
 intermarkets.net
 internet-bb.tk
 interseek.si
@@ -2108,13 +2160,18 @@ invention.festinolente.cl
 investingapp.net/ads_api.php?
 investingchannel.com
 io.narrative.io
+ios-quinoa-events-prod.sense360eng.com
+ios-quinoa-high-frequency-events-prod.sense360eng.com
+ios-quinoa-personal-identify-prod.sense360eng.com
 ios.bcfads.com
 ios.bugly.qq.com
+iosads24.adcolony.com
 ip-182-50-129-164.ip.secureserver.net
 ip-182-50-129-181.ip.secureserver.net
 ip-api.com$domain=~ip-api.com
 iphoneitalia.com.page-wrapper > center > div[style^="height:50px;"]
 ipify.org
+ipinfo.io
 ipl.hk
 ipla.hit.stat24.com
 iptoo.cruisingsmallship.com
@@ -2209,6 +2266,7 @@ kma.biz
 kochava.com
 kollagen4you.se
 komoona.com
+krk.kargo.com
 krsa2gno.congrats-sweepstakes-winner.com
 krsa2gno.important-security-brower-alert.com
 krsa2gno.internet-security-alert.com
@@ -2300,6 +2358,7 @@ logger.ntracecloud.com
 login.facebook.com
 login.wi-fi.ru$script,third-party
 logly.co.jp
+logs-01.loggly.com
 logs.supersonic.com
 logupdate.avlyun.sec.miui.com
 logx.optimizely.com
@@ -2320,6 +2379,7 @@ luckyclear.info
 luckyeffect.info
 luckyhalo.info
 luckypure.info
+luckypushh.com
 luckyshine.info
 luckysuccess.info
 luckysure.info
@@ -2334,6 +2394,7 @@ luxadv.com
 luxup.ru
 lxqcgj.com
 lydwood.co.uk
+m-metrics.capitalone.com
 m.12306media.com
 m.17track.net##.slick-slide+div[class^="slick-slide"] > div.tracklist-item.tracklist-default
 m.17track.net##.yq-panel-gad
@@ -2480,11 +2541,13 @@ m.youtube.com##a[href^="/watch?v="][onclick^="return koya.onEvent(arguments[0]||
 m.youtube.com##a[href^="/watch?v="][onclick^="return koya.onEvent(arguments[0]||window.event,'"]:not([role]):not([class]):not([id]) + div
 m1-shop.ru
 m2132.ehgaugysd.net
+m2m-api.inmarket.com
 m2m1.inner-active.mobi
 m2pub.com
 ma-code.ru^$third-party
 ma-static.ru
 ma.inmobi.com
+mab.chartbeat.com
 mad.mobisky.pl
 madadsmedia.com
 madnet.ru
@@ -2517,6 +2580,7 @@ market.viber.com^$elemhide
 market.xiaomi.com/download/AdCenter/
 marketgid.com
 marketplace-ios-*.hyprmx.com
+maroola.aditms.me
 marsads.com
 marx-brothers.mhwang.com
 massrel-all.massrel.io
@@ -2534,6 +2598,7 @@ mbrdot.tk
 mc.yandex.ru
 mc.yandex.ru/metrika/watch.js$domain=letmefix.ru
 mc.yandex.ru/metrika/watch.js$domain=m.market.yandex.ru|m.market.yandex.ua|m.market.yandex.by|m.market.yandex.kz
+md-i-s.apptimize.com
 mdaily.bhaskar.com###atf_ad
 mdn1.phluantmobile.net
 mdn2.phluantmobile.net
@@ -2588,6 +2653,7 @@ metrics-cbslocal-com.cdn.ampproject.org
 metrics.adflake.com
 metrics.bestbuy.com
 metrics.cvshealth.com
+metrics.icloud.com
 metrics.macys.net
 metrics.sdkbox.com
 metrics.timewarnercable.com
@@ -2674,6 +2740,7 @@ mobileads.indiatimes.com/Web_Ads/js/22april16/prebid_1.js$script,domain=m.timeso
 mobileads.msn.com
 mobileanalytics.*.amazonaws.com
 mobileanalytics.us-east-1.amazonaws.com
+mobileapi.mobiquitynetworks.com
 mobileapptracking.com
 mobilebanner.ru^$third-party
 mobilecore.com
@@ -2682,6 +2749,7 @@ mobiledl.adobe.com
 mobilefuse.com
 mobilefuse.net
 mobilelog.upqzfile.com
+mobilenotification.com-com.pro
 mobilesyrup.com##div[class^="mobile-ads"]
 mobiletheory.com
 mobilityware.com/adparams/
@@ -2736,6 +2804,7 @@ ms11.net
 msads.net
 msbmopod.vo.llnwd.net
 msbrandent.vo.llnwd.net
+msh.amazon.com
 msntest.serving-sys.com
 mssl.fwmrm.net/*/AdManager.js?$domain=nhl.com|dtmts.com
 mtag.mman.kr
@@ -2823,6 +2892,7 @@ nexac.com
 nexage.akadns.net
 nexage.com
 nextclick.pl
+nexus.ensighten.com
 nfl.com##.hp-tablet-cp-ad-row > div[class^="hp-tablet"]
 nickhel.com
 nikolamireasa.com
@@ -2954,6 +3024,7 @@ oss-cn-shanghai.aliyuncs.com/feimobileA.js
 otherlevels.com
 otylkaaotesanek.cz
 outbrain.com
+outcome.supersonicads.com
 outporn.com
 ov.yahoo.co.jp
 ovalpigs.com
@@ -2966,6 +3037,7 @@ oz.ministryofads.com
 ozzysixsixsix.web.fc2.com
 p.admob.com
 p.medialytics.com
+p.tvpixel.com
 pacan.gofreedom.info
 pacman.gkgar.com
 padsdel.com
@@ -2978,6 +3050,7 @@ pagead3.googlesyndication.com
 pagead46.l.doubleclick.net^$third-party
 pagefair.net
 pamoran.net
+pandoramedia.sc.omtrdc.net
 papamamandoudouetmoi.com
 paracadutismolucca.it
 paraskov.com
@@ -3019,6 +3092,7 @@ phoaz.cruisingsmallship.com
 phonearena.com##div[style="min-width:300px; min-height:250px; overflow: hidden; margin: 0 auto;"]
 photographpan.com
 pic.starsarabian.com
+pie.wirelessregistry.com
 pietexture.com
 pigra.csheaven.com
 piluli.ru##div[class^="ya_adv_"]
@@ -3026,6 +3100,7 @@ piluli.ru##div[id^="medads_banner"]
 ping.chartbeat.net
 ping.taplytics.com
 ping.xlmc.sandai.net
+ping.yoyogames.com
 pingma.qq.com
 pingma.qq.com/mstat/
 pingmedia.ru
@@ -3040,6 +3115,7 @@ pixel.redditmedia.com
 pixels.asia
 pixfuture.net
 pl.263gmail.org^$third-party
+placements.tapjoy.com
 plaimedia.com
 plank.duplicolor.cl
 plantaardigebrandstof.nl
@@ -3127,6 +3203,7 @@ provideplant.com
 prre.ru
 prugskh.com
 prugskh.net
+psirsoor.com
 psma01.com
 psma02.com
 psma03.com
@@ -3156,6 +3233,7 @@ pulso.butlerelectricsupply.com
 pumpkin.brisik.net
 pure-t.ru##.mobile-banner
 purethc.com
+pushame.com
 pushnative.com
 pw.lpsxssm.com^$third-party
 pwvita.pl
@@ -3182,6 +3260,7 @@ r.w.inmobi.com
 r.w.inmobi.com # in-app provider
 r0.mail.ru
 r0.mradx.net
+r3---sn-ab5l6nzd.googlevideo.com
 r7mediar.com$popup
 rad.msn.com
 radio.yandex.ru,radio.yandex.by,radio.yandex.ua##.slider > .slider__item_advert
@@ -3271,6 +3350,8 @@ rotaban.ru
 rotator.axiatraders.com
 rotator.beginads.com
 rotator.buzzclicks.com
+rotumal.com
+rpc.tapjoy.com
 rs-staticart.ybcdn.net
 rs.mail.ru/pixel
 rsiuk.co.uk
@@ -3282,11 +3363,13 @@ rtb-useast.kobenetwork.com
 rtb.adentifi.com^$third-party
 rtb.nexage.com
 rtb.platform.glispa.com
+rtb42td.com
 rtbimp-loadbalancer-*.amazonaws.com
 rtbpop.com
 rts.mobula.sdk.duapps.com
 ru.theswiftones.com
 ru.velti.com
+rubick.gameanalytics.com
 rubiconproject.com
 rubiks.ca
 ruby.adsnative.com
@@ -3307,11 +3390,13 @@ s.amazon-adsystem.com
 s.innovid.com
 s.mobclix.com
 s.nvrentao8.com^$third-party
+s.symcd.com
 s.zkcdn.net
 s0.2mdn.net
 s1.2mdn.net
 s3.amazonaws.com/promos.withbuddies.com/prod/ads/
 s3.phluant.com
+s7.addthis.com
 sa.entireweb.com
 sadiqtv.com
 saemark.is
@@ -3365,13 +3450,17 @@ scrubsky.com
 scrubswim.com
 sdg-translations.com
 sdk-api.yozio.com/?os
+sdk-config.fyber.com
 sdk-orion.appboy.com
 sdk.adincube.com
 sdk.appbrain.com/api/
 sdk.native123.com
+sdk.revealmobile.com
 sdk.starbolt.io
 sdkconfig.ad.xiaomi.com
 sdklogs.avocarrot.com
+sdktm.w.dfw1.vip.inmobi.com
+sdktm.w.inmobi.com
 sdt1.corp.inmobi.com
 sebder.roboinside.me
 seclub.org##.ad_block
@@ -3393,11 +3482,14 @@ sejs.moatads.com
 sekindo.com
 semengineers.com
 semiyun.com
+sendbird.reddit.com
+sendbirdproxy-003d8d1fb8653f6f8.chat.redditmedia.com
 sentrol.cl
 seoholding.com
 seonetwizard.com
 seopult.ru
 separatesilver.com
+serpens.iad-01.braze.com
 serraikizimi.gr
 serve-sys.com
 servebom.com
@@ -3410,6 +3502,7 @@ sessionm.com
 setting.adzcore.com
 setting.rayjump.com
 settings.crashlytics.com
+sex-and-flirt.com
 sexyoilwrestling.com
 sexyster.tk
 sexzoznamka.eu
@@ -3442,6 +3535,7 @@ silvermob.com
 simpi.tourstogo.us
 simplisticnose.com
 sinceresofa.com
+single.upsight-api.com
 singular.net
 sinoptik.ua##div[class^="rozetka"]
 sinst.fwdcdn.com/_uploaded_files/ads/
@@ -3568,6 +3662,7 @@ smartify.org
 smarttds.ru
 smedia2.intoday.in/aajtak_pwapp$script
 smetrics.capitalone.com
+smetrics.cnn.com
 smetrics.discover.com
 smetrics.fedex.com
 smilered.com
@@ -3654,6 +3749,7 @@ static.elixmedia.com
 static.estebull.com
 static.expressbpd.com/rsjs/ads.js
 static.hltv.org//images/drakemoon_
+static.psirsoor.com
 static.redtube.com/mobi/images/$domain=redtube.com
 static.retirementcommunitiesfyi.com
 static.uniblue.com/media/spacecleaner/sc-post-script.min.js$domain=filext.com
@@ -3663,9 +3759,11 @@ static0.wi-fi.ru/static/000/ios/index.html
 staticaws.365scores.com/AdsConfig/
 statistics.videofarm.daum.net
 stats.appsflyer.com
+stats.boxed.com
 stats.g.doubleclick.net #Doubleclick tracking
 stats.pflexads.com
 stats.popcap.com
+stats.transitapp.com
 stats.umsns.com
 stats.unity3d.com
 stereogum.com##.ad-holder
@@ -3684,6 +3782,7 @@ stormyshock.com
 stormysponge.com
 straightnest.com
 strangeduckfilms.com
+stream.com-com.biz
 strikeadcdn.s3.amazonaws.com
 strivesidewalk.com
 structured.blackswanstore.com
@@ -3696,12 +3795,14 @@ sunlux.net
 sunny99.cholerik.cz
 suo.lp.mydas.mobi
 superficialsink.com
+superonclick.com
 supersonicads-a.akamaihd.net
 supersonicads.com
 survey.foreseeresults.com
 surveyor.vo.llnwd.net
 svetyivanrilski.com
 svision-online.de
+svtracking1.communications.a01.yahoodns.net
 swappit.tapad.com
 sweettalk.co
 swelen.com
@@ -3736,6 +3837,7 @@ tanx.com
 tap-nexus.appspot.com
 tapad.com
 tapcreatives.net^$third-party
+tapdaq-adverts.global.ssl.fastly.net
 tapit.com
 tapjoy.com
 tapjoy.net
@@ -3827,12 +3929,15 @@ toyota.vo.llnwd.net
 tpbid.com
 tpc.googlesyndication.com
 tpmn.co.kr
+tqfulmf.com
 tracedesire.com
 track.adform.net
 track.appsflyer.com
 track.celtra.com
 track.cpatool.net$popup,third-party
+track.dictionary.com
 track.pingstart.com
+track.tenjin.io
 track.uc.cn
 tracker-api.my.com
 tracker.adotmob.com
@@ -3880,6 +3985,7 @@ trifle.ernstenco.be
 tritetongue.com
 trk.glispa.com
 trk.pinterest.com
+trk10.com
 troytempest.com
 truckstomatoes.com
 trustedreviews.com###dfpIdtop
@@ -3973,6 +4079,7 @@ uchyz.cruisingsmallship.com
 ucweb.com
 udaff.com##[width="240"][height="300"]
 udc.msn.com
+udm.scorecardresearch.com
 udn.com##.only_mobile.mm-slideout
 udn.com##.overlay-container
 ufz.doesxyz.com
@@ -4015,6 +4122,7 @@ upornia.com##.player-holder > div[style="position: absolute; left: 0px; right: 0
 upornia.com##.tc-interstitional
 upornia.com##[id^="up_ntv_"][style*="width: 300px; height: 250px;"]
 upornia.com/js/*.js?v=
+uprimp.com
 ups.ksmobile.net
 upsight-api.com
 upsight.com
@@ -4042,6 +4150,7 @@ v.fwmrm.net/ad/*&resp=vast2
 v.fwmrm.net/ad/g/*$domain=nhl.com|dtmts.com
 v.inigsplan.ru
 v.vsimasd.pw
+v1.blueberry.cloud.databerries.com
 vads-api.daumkakao.com/xylophone/adrequest/json
 valouweeigenaren.nl
 valuecommerce.com
@@ -4064,6 +4173,7 @@ vfl.ru##a[href^="http://optimizator.ru/"]
 victor.connectcloud.ch
 vidasys.ru
 video-ad-stats.googlesyndication.com
+video-fa.scdn.covisualcommerceanalytics-env.us-east-1.elasticbeanstalk.com
 videoflyover.com
 videoplaza.com
 videoplaza.tv
@@ -4120,11 +4230,13 @@ wbn.su
 wc0x83ghk.homepage.t-online.de
 wccftech-com.cdn.ampproject.org##.amp-ad
 wccftech.com##.amp-ad
+wd.adcolony.com
 wdig.vo.llnwd.net
 web-domain.tk
 web-fill.tk
 web-olymp.ru
 web-sensations.com
+web.hb.ad.cpe.dotomi.com
 web63.jumptap.com
 web64.jumptap.com
 web65.jumptap.com
@@ -4318,6 +4430,7 @@ www.galileounaluna.com
 www.gameangel.com
 www.gasthofpost-ebs.de
 www.gennaroespositomilano.it
+www.gigdnetwork.com
 www.gliamicidellunicef.it
 www.gmcjjh.org
 www.gold-city.it
@@ -4338,6 +4451,8 @@ www.indiaonclick.com
 www.inevo.co.il
 www.infra.by
 www.inmobi.com
+www.interadv.net
+www.iwtserve.com
 www.jcmarcadolib.com
 www.joomlalivechat.com
 www.k5market.com
@@ -4380,6 +4495,7 @@ www.offerent.com
 www.officialrdr.com
 www.ohiomm.com
 www.oiluk.net
+www.oriori.com
 www.ostsee-schnack.de
 www.outlinearray.com
 www.over50datingservices.com
@@ -4414,6 +4530,7 @@ www.rokus-tgy.hu
 www.roltek.com.tr
 www.rooversadvocatuur.nl
 www.rotator.buzzclicks.com
+www.routeserve.info
 www.rst-velbert.de
 www.saemark.is
 www.salentoeasy.it
@@ -4488,6 +4605,7 @@ www2.smartadserver.com
 www3.smartadserver.com
 www4.smartadserver.com
 www8.0zz0.com
+wwwdrt.idev.fedex.com
 wwwpromoter.com
 wwww.adleads.com
 wwww.statcounter.com
@@ -4542,6 +4660,7 @@ yldbt.com
 yllix.com
 ylpzt.juzojossai.net
 yluvo.com
+ylx-i.advertica-cdn2.com
 ymcdn.ymtrack6.co/ads_file/
 ymcdn.ymtrack6.co/offer_single_files/
 ymtracking.com
@@ -4593,53 +4712,3 @@ zybang.com##.cmn-zuoyebang-slogan
 zybang.com##.qb-wgt_float-banner
 zyrdu.cruisingsmallship.com
 zzhengre.com
-ads-resources-legacy.waze.com
-ads.pokerist.com
-ads.tapdaq.com
-ads.tapdaq.com.cdn.cloudflare.net
-ads30.adcolony.com
-analytics.businessinsider.com
-apptimize.com
-bootstrap.upsight-api.com
-by.uservoice.com
-cdn.adsafeprotected.com
-cdn.optimizely.com
-cdn.taboola.com
-connect.tapjoy.com
-control.kochava.com
-crosspromo.voodoo.io
-events3.adcolony.com
-hub.databurst.io
-init.supersonicads.com
-iosads24.adcolony.com
-ipinfo.io
-krk.kargo.com
-logs-01.loggly.com
-md-i-s.apptimize.com
-nexus.ensighten.com
-outcome.supersonicads.com
-placements.tapjoy.com
-rpc.tapjoy.com
-sdktm.w.dfw1.vip.inmobi.com
-sdktm.w.inmobi.com
-single.upsight-api.com
-tapdaq-adverts.global.ssl.fastly.net
-track.tenjin.io
-udm.scorecardresearch.com
-wd.adcolony.com
-pie.wirelessregistry.com
-v1.blueberry.cloud.databerries.com
-incoming-data-sense360.s3.amazonaws.com
-ios-quinoa-personal-identify-prod.sense360eng.com
-ios-quinoa-events-prod.sense360eng.com
-ios-quinoa-high-frequency-events-prod.sense360eng.com
-api.safegraph.com
-sdk.revealmobile.com
-mobileapi.mobiquitynetworks.com
-m2m-api.inmarket.com
-api.huq.io
-api.beaconsinspace.com
-api.factual.com
-et.intake.factual.com
-in.cuebiq.com
-api.areametrics.com
