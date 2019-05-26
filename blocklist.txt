@@ -602,6 +602,7 @@ alisat.biz
 alissonluis-musico.sites.uol.com.br
 allforlove.de
 alliance4media.com
+allornamenti.com
 allxscan.tk
 alog.umeng.co/app_logs
 alog.umeng.com
@@ -741,6 +742,7 @@ api.mobula.ds.duapps.com
 api.mobula.sdk.duapps.com
 api.ok.ru/fb.do?application_key=*_advertisement.user_id
 api.oneaudience.com
+api.overwatchleague.com
 api.pingstart.com
 api.pubnative.net
 api.redshell.io
@@ -795,6 +797,7 @@ appnext-a.akamaihd.net
 appnext.com
 appnext.hs.llnwd.net
 appodeal.com
+appodealx-eu.appgrowth.com
 appodealx.com
 apprupt.com
 apps.buzzcity.net
@@ -844,6 +847,7 @@ atlcourier.com
 ato.mx
 atti.com
 atti.velti.com
+attribution.reportbaipagid.com
 atwola.com
 atyss.barginginfrance.net
 au.youmi.net
@@ -1211,6 +1215,7 @@ ceskarepublika.net
 cf-ads.pinger.com
 cf.cdn.inmobi.com
 cf.iadsdk.apple.com
+cf.xad.comchoices.trustarc.com
 chango.com
 chartboost.com
 chaveiro.bio.br
@@ -1342,6 +1347,7 @@ crackspider.us
 crackzone.net
 crasheye.cn
 crawlclocks.com
+creative-cdn.appgrowth.com
 creative1cdn.mobfox.com
 creditbootcamp.com
 crispadvertising.com
@@ -1919,6 +1925,7 @@ grendizer.biz
 greyinstrument.com
 greystripe.com
 groax.mymag250.co.uk
+groomoub.com
 grosirkecantikan.com
 grt02.com
 grt03.com
@@ -2211,6 +2218,7 @@ jmp9.com
 jo-2012.fr
 job-companybuild.tk
 job-compuse.tk
+jokoshep.com
 josip-stadler.org
 js.mobojoy.baidu.com
 js.tongji.linezing.com
@@ -2394,6 +2402,7 @@ luxadv.com
 luxup.ru
 lxqcgj.com
 lydwood.co.uk
+lyr.pubmatic.com
 m-metrics.capitalone.com
 m.12306media.com
 m.17track.net##.slick-slide+div[class^="slick-slide"] > div.tracklist-item.tracklist-default
@@ -2799,6 +2808,8 @@ mprezchc.com
 mpx.mopub.com
 mreco0.jp
 mrpeter.it
+ms.applovin.com
+ms.applvn.com
 ms.cmcm.com
 ms11.net
 msads.net
@@ -2838,6 +2849,7 @@ n152adserv.com
 n208adserv.com
 n4403ad.doubleclick.net
 nadegda-95.ru
+nagubalqryvirelv.com
 nailbytes1.com
 namso.butlerelectricsupply.com
 nanigans.com
@@ -3234,6 +3246,7 @@ pumpkin.brisik.net
 pure-t.ru##.mobile-banner
 purethc.com
 pushame.com
+pushazam.com
 pushnative.com
 pw.lpsxssm.com^$third-party
 pwvita.pl
@@ -4132,6 +4145,7 @@ urban-motorcycles.com
 url-cameralist.tk
 us-east1.serve.elixmedia.com
 us-east1.serve.enatimedia.com
+us-notify.bidagent.xad.com
 us.3zs0.date
 us0.adlibr.com
 usarmy.vo.llnwd.net
@@ -4162,6 +4176,7 @@ vdula.czystykod.pl
 veeseo.com
 veevu.tourstogo.us
 veksi.barginginfrance.net
+vektor-us-east-1.axonix.com
 velti.com
 vendimob.pl
 venetia.iad.appboy.com
@@ -4174,6 +4189,7 @@ victor.connectcloud.ch
 vidasys.ru
 video-ad-stats.googlesyndication.com
 video-fa.scdn.covisualcommerceanalytics-env.us-east-1.elasticbeanstalk.com
+video-fa.scdn.cowauzoust.com
 videoflyover.com
 videoplaza.com
 videoplaza.tv
@@ -4551,6 +4567,7 @@ www.sitepalace.com
 www.sj88.com
 www.slayerlife.com
 www.slivki.com.ua
+www.smalv.comx-us.appbaqend.com
 www.smartadserver.com
 www.smartgvcfunding.com
 www.smartscan.ro
