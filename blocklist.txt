@@ -24,6 +24,7 @@
 3.coolerpillow.com
 31.14.252.148^$third-party
 360yield.com
+37483.netadpgtr.com
 4.androidislamic.com
 4.collecorvino.org
 4.dlevo.com
@@ -573,6 +574,7 @@ adztec.com
 adzworld.in
 afa15.com.ne.kr
 afaqs.com##.topban-container
+afd.t-0001.t-msedge.net
 affiliate.fc2.com
 affinity.com
 affiz.net
@@ -609,6 +611,7 @@ alog.umeng.com
 alog.umengcloud.com
 alogs.umeng.com
 alogs.umengcloud.com
+alpha.dealereprocesschat.com
 alsoknowsit.com
 altitude-arena.com
 altnet.jp
@@ -1182,6 +1185,7 @@ cdn.celtra.com
 cdn.chitika.net
 cdn.cpiera.com
 cdn.creative.medialytics.com
+cdn.dealereprocess.org
 cdn.fancybar.net
 cdn.hdat.xyz
 cdn.lfstmedia.com/~cdn/Ads/
@@ -1202,6 +1206,7 @@ cdn1.inner-active.mobi
 cdn1.smartadserver.com
 cdn2.crispadvertising.com
 cdn2.gigya.com
+cdn3.dealereprocesschat.com
 cdn7.rocks
 cdns.lodeo.io
 ced.sascdn.com
@@ -1282,6 +1287,7 @@ coaha.frenchgerlemanelectric.com
 coalimpex.com
 coandroid.ru/uploads/mobcoin.png
 coconuts.boy.jp
+code4us.com
 codepush.azurewebsites.net
 codepushupdates.azureedge.net
 cofeb13east.com
@@ -1456,6 +1462,7 @@ diff.smartadserver.com
 diff2.smartadserver.com
 diff3.smartadserver.com
 differentdesk.com
+dilruwha.net
 dimarsbg.com
 dimenal.com.br
 dimensionnail.ro
@@ -1998,6 +2005,7 @@ hoerbird.net
 hoiplay.com/tm_popup.html$popup
 holder.com.ua
 holishit.in
+homepros.zone
 honor.agitaattori.fi
 hoodrunner.kiloo.com/newonlinesettings.php?platform=android
 hormebets.info$popup
@@ -2021,6 +2029,7 @@ html5.adsrvr.org
 html5adkit.plusmo.s3.amazonaws.com
 httpool.com
 hub.databurst.io
+huhit.site
 hujii.qplanner.cf
 huntmad.com
 hy-brasil.mhwang.com
@@ -2218,6 +2227,7 @@ jmp9.com
 jo-2012.fr
 job-companybuild.tk
 job-compuse.tk
+jobs.dealereprocess.com
 jokoshep.com
 josip-stadler.org
 js.mobojoy.baidu.com
@@ -2337,6 +2347,7 @@ lijit.com
 likes.gisnetwork.net
 limpingline.com
 linkforme.tk
+linkin.viagenie.ca
 listat.biz
 listing.yahoo.co.jp
 live-dir.tk
@@ -2691,6 +2702,7 @@ mixedreading.com
 mixi.co.jp
 mixmarket.biz
 mixpanel.com/track
+mixrok.com
 mlb.did.ijinshan.com
 mlpoint.pt
 mmile.com
@@ -2940,6 +2952,7 @@ nudebeachgalleries.net
 nudevista.at,nudevista.be,nudevista.com,nudevista.com.br,nudevista.com.pl,nudevista.es,nudevista.it,nudevista.jp,nudevista.net,nudevista.nl,nudevista.se,nudevista.tw##.mob_adv
 nuggad.net
 nugly.barginginfrance.net
+numb.viagenie.ca
 numbers.md
 nuptialimages.com
 nutnet.ir
@@ -3219,6 +3232,7 @@ psirsoor.com
 psma01.com
 psma02.com
 psma03.com
+psoashee.net
 psooz.tourstogo.us
 pstatp.com/site/reads-sdk*/*.js
 pt-br.facebook.com
@@ -3244,6 +3258,7 @@ puhtml.com
 pulso.butlerelectricsupply.com
 pumpkin.brisik.net
 pure-t.ru##.mobile-banner
+pureinfluencer.idrove.it
 purethc.com
 pushame.com
 pushazam.com
@@ -3301,6 +3316,7 @@ reate.info
 rebelsubway.com
 receptiveink.com
 reclamus.com
+record.commissionkings.ag
 recreativ.ru
 red-forum.com###mobile_banner
 redclick.ru
@@ -3480,6 +3496,7 @@ seclub.org##.ad_block
 secure.insightexpressai.com
 secure.ironbeast.io
 secure.p01.eloqua.com
+securecloud-smart.com
 securepubads.g.doubleclick.net
 securepubads.g.doubleclick.net/gampad/ads$domain=wtf.nl
 securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=15min.lt
@@ -3487,6 +3504,7 @@ securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=15min.lt
 securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=espn.com
 securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=m.legacy.com
 securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=m.timesofindia.com
+securessl-smart.com
 securitywebservices.com
 seed.by
 seet10.jino.ru
@@ -3510,6 +3528,7 @@ servedbyopenx.com
 server.idreams.pl/news/ads_sfr_*.json
 server1.extra-web.cz
 service.face2trade.com
+service.opticalanalytics.io
 serving-sys.com
 sessionm.com
 setting.adzcore.com
@@ -3800,6 +3819,8 @@ strikeadcdn.s3.amazonaws.com
 strivesidewalk.com
 structured.blackswanstore.com
 structuresofa.com
+stun.phone.com
+stun.vodafone.ro
 sube.puwangkj.com^$third-party
 succeedscene.com
 sudcom.org
@@ -4166,6 +4187,7 @@ v.inigsplan.ru
 v.vsimasd.pw
 v1.blueberry.cloud.databerries.com
 vads-api.daumkakao.com/xylophone/adrequest/json
+vaebard.com
 valouweeigenaren.nl
 valuecommerce.com
 vcdn.biz/*_mggads/
@@ -4247,6 +4269,7 @@ wc0x83ghk.homepage.t-online.de
 wccftech-com.cdn.ampproject.org##.amp-ad
 wccftech.com##.amp-ad
 wd.adcolony.com
+wdc.apypxl.com
 wdig.vo.llnwd.net
 web-domain.tk
 web-fill.tk
@@ -4411,8 +4434,10 @@ www.donneuropa.it
 www.dowdenphotography.com
 www.downloaddirect.com
 www.drteachme.com
+www.dyerkialakewales.com
 www.ecoleprincessedeliege.be
 www.eielectronics.com
+www.eivaagames.com
 www.eivamos.com
 www.elisaart.it
 www.elixmedia.com
@@ -4502,6 +4527,7 @@ www.montacarichi.it
 www.motivacionyrelajacion.com
 www.moviedownloader.net
 www.mrpeter.it
+www.myemailtracking.com
 www.northpoleitalia.it
 www.notaverde.com
 www.nothingcompares.co.uk
@@ -4729,9 +4755,3 @@ zybang.com##.cmn-zuoyebang-slogan
 zybang.com##.qb-wgt_float-banner
 zyrdu.cruisingsmallship.com
 zzhengre.com
-mixrok.com
-stun.vodafone.ro
-numb.viagenie.ca
-stun.phone.com
-linkin.viagenie.ca
-dilruwha.net
