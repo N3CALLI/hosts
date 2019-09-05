@@ -4755,3 +4755,6 @@ zybang.com##.cmn-zuoyebang-slogan
 zybang.com##.qb-wgt_float-banner
 zyrdu.cruisingsmallship.com
 zzhengre.com
+mvaali1.l.byteoversea.net
+mvaali2.l.byteoversea.net
+security-lb-maliva.byteoversea.net
