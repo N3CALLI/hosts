@@ -4758,3 +4758,7 @@ zzhengre.com
 mvaali1.l.byteoversea.net
 mvaali2.l.byteoversea.net
 security-lb-maliva.byteoversea.net
+account.monetizd.com
+cdn.mybookie.ag
+mybookie.ag
+record.webpartners.co
