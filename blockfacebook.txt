@@ -34,7 +34,9 @@ a.ns.t.facebook.net
 a.ns.tfbnw.net
 a.ok.facebook.com
 a3.sphotos.ak.fbcdn.net
+about.pinterest.com
 academy.facebook.com
+ads.pinterest.com
 adtools.facebook.com
 ae0.bb01.ams2.tfbnw.net
 ae0.bb01.atl1.tfbnw.net
@@ -319,6 +321,7 @@ api.facebook.com
 api.fbcdn.com
 api.fbsbx.com
 api.instagram.com
+api.pinterest.com
 api2.facebook.com
 app.facebook.com
 apps-1001201953377752.apps.fbsbx.com
@@ -859,7 +862,9 @@ bidder-shv-10-frc1.facebook.com
 bigzipfiles.facebook.com
 black.ish.instagram.com
 blog.facebook.com
+blog.pinterest.com
 boisestate.facebook.com
+br.pinterest.com
 bradford.facebook.com
 bradley.facebook.com
 bridgewater.facebook.com
@@ -870,6 +875,7 @@ bt.intern.fbsbx.com
 bucknell.facebook.com
 bunnylol.facebook.net
 business.facebook.com
+business.pinterest.com
 c2p.facebook.net
 ca-es.facebook.com
 ca-es.prod.facebook.com
@@ -961,6 +967,7 @@ developer.facebook.com
 developer.facebook.net
 developers.facebook.com
 developers.facebook.net
+developers.pinterest.com
 development.facebook.com
 dewey-lfs.vip.facebook.com
 dewey.vip.facebook.com
@@ -1752,6 +1759,7 @@ en-gb.beta.facebook.com
 en-gb.facebook.com
 en-gb.prod.facebook.com
 en-pi.facebook.com
+engineering.pinterest.com
 eo-eo.facebook.com
 erau.facebook.com
 error.facebook.com
@@ -2089,6 +2097,7 @@ headers-shv-00-rfrc0.facebook.com
 headers-shv-00-rprn0.facebook.com
 headers-shv-04-prn2.facebook.com
 hec.facebook.com
+help.pinterest.com
 herningrideklub.netscontent-a-ams.xx.fbcdn.net
 hi-in.facebook.com
 hillsdale.facebook.com
@@ -2115,6 +2124,7 @@ iad3.tfbnw.net
 icc.facebook.com
 id-id.facebook.com
 id.0.facebook.com
+id.pinterest.com
 ide.fbsbx.com
 ig-telegraph-shv-06-ash2.facebook.com
 ig-telegraph-shv-08-atn2.facebook.com
@@ -2591,6 +2601,7 @@ lit.facebook.com
 lite.facebook.com
 lithium.facebook.com
 liv.facebook.com
+live.fb.com
 liverail.c10r.facebook.com
 livestream-edgetee-shv-01-syd2.facebook.com
 livestream-edgetee-trace-shv-01-sea1.facebook.com
@@ -2826,6 +2837,7 @@ photos-b.xx.fbcdn.net
 photos-snc1.fbcdn.net
 php.0.facebook.com
 php.mirror.facebook.net
+pinterest.com
 pixel.facebook.com
 pl-pl.0.facebook.com
 pl-pl.facebook.com
@@ -3491,6 +3503,7 @@ traceroute-bgp-01-icn1.facebook.com
 traceroute-bgp-01-mad1.facebook.com
 traceroute-bgp-01-sea1.facebook.com
 transparency.facebook.com
+trk.pinterest.com
 troy.facebook.com
 trunkstable.facebook.com
 twitter.facebook.com
@@ -3507,6 +3520,7 @@ uga.facebook.com
 uic.facebook.com
 uindy.facebook.com
 uk-ua.facebook.com
+uk.pinterest.com
 umass.facebook.com
 umbc.facebook.com
 umw.facebook.com
@@ -3820,6 +3834,7 @@ www.mirror.facebook.net
 www.new.facebook.com
 www.opera.mirror.facebook.net
 www.php.mirror.facebook.net
+www.pinterest.com
 www.presto.vip.facebook.com
 www.proxygen-verifier.facebook.com
 www.s-static.ak.facebook.com
