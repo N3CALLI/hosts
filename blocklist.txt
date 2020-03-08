@@ -112,6 +112,7 @@ absurdity.flarelight.com
 abtest.mistat.xiaomi.com
 abtest.swrve.com
 accesstrade.net
+account.monetizd.com
 accuweather.com###mid-ad
 achren.org
 ackak.com
@@ -631,6 +632,7 @@ amdc.m.taobao.com
 amdfrance.com
 americancareconcept.com
 aminev.com
+ammankeyan.com
 amoad.com
 amobee.com
 amp-error-reporting.appspot.com
@@ -1160,6 +1162,7 @@ carbonads.net
 carfax.sc.omtrdc.net
 casalemedia.com
 cashprom.ru
+cashstaging.app
 cashstaging.me
 castplatform.com
 catjogger.win
@@ -1192,6 +1195,7 @@ cdn.lfstmedia.com/~cdn/Ads/
 cdn.mdotm.com
 cdn.media.amp.avai.com
 cdn.millennialmedia.com
+cdn.mybookie.ag
 cdn.nearbyad.com
 cdn.optimizely.com
 cdn.outfit7.com/promo-nc
@@ -1657,6 +1661,7 @@ exclusivebrass.com
 exe.bid
 executivecoaching.co.il
 exelator.com
+exikxnbxula.com
 exit-ad.com
 exoclick.com
 exoticads.com
@@ -1942,6 +1947,7 @@ gssprt.jp
 gstatic.com
 gts-ads.twistbox.com
 guardedgovernor.com
+guessredirect.com
 guile.jp
 guitarbelieve.com
 gulf-industrial.com
@@ -1976,6 +1982,7 @@ hdzog.com/assets/$domain=m.hdzog.com
 hdzog.com/get_file/$domain=m.hdzog.com
 hdzog.com/key=$domain=m.hdzog.com
 headless.ebkfwd.com
+health.apple.com
 health.foresee.com
 health.mail.ru##div[class$="trg-b-banner-block"]
 healthboards.com##.sticky_ad
@@ -2182,6 +2189,7 @@ ios-quinoa-personal-identify-prod.sense360eng.com
 ios.bcfads.com
 ios.bugly.qq.com
 iosads24.adcolony.com
+iosrecommendedvpn.com
 ip-182-50-129-164.ip.secureserver.net
 ip-182-50-129-181.ip.secureserver.net
 ip-api.com$domain=~ip-api.com
@@ -2714,6 +2722,7 @@ mo.spaces.ru./static/$script,domain=nasimke.ru|sasisa.ru
 moatads.com
 moatads.com.edgekey.net
 mob-server.com
+mob-track.com
 mob.adwhirl.com
 mob.huimee.net^$third-party
 moba8.net
@@ -2841,12 +2850,15 @@ mueller-holz-bau.com
 murbil.hostei.com
 muzmo.ru##div[id] > [style="width: 100%; max-width: 800px; margin: 0px auto;"]
 muzmo.ru/static/images/*_banners_ru/
+mvaali1.l.byteoversea.net
+mvaali2.l.byteoversea.net
 mwc.velti.com
 mxtads.com
 mxttrf.com
 mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 my.mobfox.com
+mybookie.ag
 mycleanpc.tk
 mydas.mobi
 myinfotopia.com
@@ -3317,6 +3329,8 @@ rebelsubway.com
 receptiveink.com
 reclamus.com
 record.commissionkings.ag
+record.revenuenetwork.com
+record.webpartners.co
 recreativ.ru
 red-forum.com###mobile_banner
 redclick.ru
@@ -3356,9 +3370,11 @@ responsys.hs.llnwd.net
 retarget.ssl-services.com
 revcontent.com
 revenue.com
+revenuenetwork.elb.myaffiliates.com
 revistaelite.com
 revmob.com
 revsci.net
+rewrite.amazon.com
 rg.ru###yandex_ads_hor_pda
 rg.yottos.com
 richpays.com
@@ -3505,6 +3521,7 @@ securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=espn.com
 securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=m.legacy.com
 securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=m.timesofindia.com
 securessl-smart.com
+security-lb-maliva.byteoversea.net
 securitywebservices.com
 seed.by
 seet10.jino.ru
@@ -3834,6 +3851,7 @@ supersonicads-a.akamaihd.net
 supersonicads.com
 survey.foreseeresults.com
 surveyor.vo.llnwd.net
+suscoop-comithers.icu
 svetyivanrilski.com
 svision-online.de
 svtracking1.communications.a01.yahoodns.net
@@ -3973,6 +3991,7 @@ track.dictionary.com
 track.pingstart.com
 track.tenjin.io
 track.uc.cn
+trackanchor.com
 tracker-api.my.com
 tracker.adotmob.com
 tracker.clickopon.com
@@ -4447,6 +4466,7 @@ www.emrlogistics.com
 www.enatimedia.com
 www.enchantier.com
 www.exelio.be
+www.exikxnbxula.com
 www.fabioalbini.com
 www.face2trade.com
 www.facebook.com
@@ -4755,10 +4775,3 @@ zybang.com##.cmn-zuoyebang-slogan
 zybang.com##.qb-wgt_float-banner
 zyrdu.cruisingsmallship.com
 zzhengre.com
-mvaali1.l.byteoversea.net
-mvaali2.l.byteoversea.net
-security-lb-maliva.byteoversea.net
-account.monetizd.com
-cdn.mybookie.ag
-mybookie.ag
-record.webpartners.co
