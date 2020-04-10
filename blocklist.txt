@@ -4775,3 +4775,9 @@ zybang.com##.cmn-zuoyebang-slogan
 zybang.com##.qb-wgt_float-banner
 zyrdu.cruisingsmallship.com
 zzhengre.com
+app.musemuse.cn
+graph.fbpigeon.com
+live.musical.ly
+mobile-gtalk.l.google.com
+share.musemuse.cn
+widget-mediator.zopim.com
