@@ -4784,3 +4784,9 @@ widget-mediator.zopim.com
 verifyclicksolutions.com
 fvs.io
 www1407.o0-3.com
+wmo.zendesk.com
+www.3388.to
+lite.3388.to
+aviary.amazon.com
+api.amazonalexa.com
+andr-785f3ec7eb-cbc62794911ff31b-c55635c491a5a663fa-2670481.na.api.amazonvideo.com
